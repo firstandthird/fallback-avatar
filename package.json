@@ -1,0 +1,24 @@
+{
+  "name": "fallback-avatar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["avatar", "fallback"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firstandthird/complete.git"
+  },
+  "author": "First+Third",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/firstandthird/complete/issues"
+  },
+  "homepage": "https://github.com/firstandthird/complete#readme",
+  "dependencies": {
+    "color-generator": "0.1.0",
+    "text-to-svg": "3.1.3"
+  }
+}
